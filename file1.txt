@@ -1,3 +1,9 @@
-new test file modified
-newly added line
-version 2.9
+public class Main{
+   int a= 0;
+
+public static void main(String args[]) {
+      if (int a=0;a<=10;a++):
+      System.out.println(a)
+
+}
+}
